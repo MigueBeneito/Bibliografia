@@ -2918,16 +2918,6 @@
   Timestamp                = {2009.07.18}
 }
 
-@Book{Glasman-Deal2010,
-  Title                    = {Science research writing for non-native speakers of english},
-  Author                   = {Glasman-Deal, Hilary},
-  Publisher                = {Imperial College press},
-  Year                     = {2010},
-  Address                  = {London},
-  Owner                    = {Migue},
-  Timestamp                = {2016.07.24}
-}
-
 @Article{Gneiting2002,
   Title                    = {Nonseparable, stationary covariance functions for space-time data},
   Author                   = {Gneiting, Tilman},
@@ -3053,15 +3043,6 @@
   File                     = {Gotsens.Mar'iDell-Olmo.ea2011.pdf:Gotsens.Mar'iDell-Olmo.ea2011.pdf:PDF},
   Owner                    = {migue},
   Timestamp                = {2011.04.26}
-}
-
-@Book{Grandud2015,
-  Title                    = {Reproducible research with R and Rstudio second edition},
-  Author                   = {Grandud, Christopher},
-  Publisher                = {Chapman \& Hall/CRC},
-  Year                     = {2015},
-  Owner                    = {Migue},
-  Timestamp                = {2016.07.24}
 }
 
 @Article{Greco.Trivisano2009,
@@ -5041,15 +5022,6 @@
   Timestamp                = {2009.07.18}
 }
 
-@PhdThesis{Mercer2016,
-  Title                    = {Space-Time Smoothing Models for Surveillance and Complex Survey Data},
-  Author                   = {Mercer, Laina},
-  School                   = {Department of Biostatistics. University of Washington.},
-  Year                     = {2016},
-  Owner                    = {Migue},
-  Timestamp                = {2016.07.24}
-}
-
 @Article{Metropolis.Ulam1949,
   Title                    = {The {M}onte {C}arlo method},
   Author                   = {Metropolis, N and Ulam, S},
@@ -5161,18 +5133,6 @@
   File                     = {Mwalili.Lesaffre.ea2005.pdf:Mwalili.Lesaffre.ea2005.pdf:PDF},
   Keywords                 = {Bayesian statistics, Simulation},
   Owner                    = {Migue Portatil}
-}
-
-@Article{Natarajan.McCulloch1995,
-  Title                    = {A Note on the Existence of the Posterior Distribution for a Class of Mixed Models forBinomial Responses},
-  Author                   = {Natarajan, Ranjini and McCulloch, Charles E.},
-  Journal                  = {Biometrika},
-  Year                     = {1995},
-  Number                   = {3},
-  Pages                    = {639-643},
-  Volume                   = {82},
-  Owner                    = {Migue},
-  Timestamp                = {2016.07.24}
 }
 
 @Article{Natario.Knorr-Held2003,

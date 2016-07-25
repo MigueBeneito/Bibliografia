@@ -5278,20 +5278,20 @@
   Timestamp                = {2009.07.19}
 }
 
+@Article{Neelon2013,
+  Title                    = {A spatial Poisson hurdle model for exploring geographic variation in emergency department visits},
+  Author                   = {Neelon, Brian},
+  Journal                  = {Journal of the Royal Statistical Society},
+  Year                     = {2013},
+  Owner                    = {Migue},
+  Timestamp                = {2016.07.24}
+}
+
 @Article{Neelon.Chang.ea2014,
   Title                    = {Spatiotemporal hurdle models for zero-inflated count data: Exploring trends in emergency department visits},
   Author                   = {Neelon, Brian and Chang, Howard H. and Ling, Qiang and Hastings, Nicole S.},
   Journal                  = {Statistical Methods in Medical Research},
   Year                     = {2014},
-  Owner                    = {Migue},
-  Timestamp                = {2016.07.24}
-}
-
-@Article{Neelon.Ghosh.ea2013,
-  Title                    = {A spatial Poisson hurdle model for exploring geographic variation in emergency department visits},
-  Author                   = {Neelon, Brian and Ghosh, Pulak and Loebs, Patrick F.},
-  Journal                  = {Journal of the Royal Statistical Society, Series A},
-  Year                     = {2013},
   Owner                    = {Migue},
   Timestamp                = {2016.07.24}
 }

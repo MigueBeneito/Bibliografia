@@ -1500,6 +1500,16 @@
   Timestamp                = {2009.03.31}
 }
 
+@Book{Chiles.Delfiner2012,
+  Title                    = {Geostatistics: Modeling spatial uncertainty. Second edition},
+  Author                   = {Chil\`{e}s, Jean Paul and Delfiner, Pierre},
+  Publisher                = {Wiley},
+  Year                     = {2012},
+  Address                  = {New Jersey},
+  Owner                    = {Migue},
+  Timestamp                = {2016.09.25}
+}
+
 @Article{Choo.Walker2008,
   Title                    = {A new approach to investigating spatial variations of disease},
   Author                   = {Choo, Louise and Walker, Stephen G},
@@ -7196,6 +7206,16 @@
   Volume                   = {69},
   File                     = {Waagepetersen.Sorensen2001.pdf:C\:\\Bibliografia\\Waagepetersen.Sorensen2001.pdf:PDF},
   Keywords                 = {Reversible Jump simulation}
+}
+
+@Book{Wackernagel1998,
+  Title                    = {Multivariate geostatistics, Second edition},
+  Author                   = {Wackernagel, H.},
+  Publisher                = {Springer Verlag},
+  Year                     = {1998},
+  Address                  = {New York},
+  Owner                    = {Migue},
+  Timestamp                = {2016.09.25}
 }
 
 @Article{Wakefield2003,
